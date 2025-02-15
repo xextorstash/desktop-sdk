@@ -2,6 +2,7 @@
 
 #include <QStyleOption>
 #include <QPainter>
+#include <cmath>
 
 #include "../qwidgetutils.h"
 

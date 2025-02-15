@@ -10,6 +10,7 @@
 #include <QFileDialog>
 #include <QStandardPaths>
 #include <QShortcut>
+#include <cmath>
 
 #include "../../../../core/DesktopEditor/common/Directory.h"
 #include "../../../../core/DesktopEditor/common/StringBuilder.h"

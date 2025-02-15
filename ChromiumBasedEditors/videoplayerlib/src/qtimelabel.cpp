@@ -2,6 +2,7 @@
 
 #include <QFontMetrics>
 #include <QtGlobal>
+#include <cmath>
 
 #include "../qwidgetutils.h"
 
